@@ -1,0 +1,27 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tov4ik/goit-advancedjs-hw-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tov4ik/goit-advancedjs-hw-05/issues"
+  },
+  "homepage": "https://github.com/Tov4ik/goit-advancedjs-hw-05#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
